@@ -1,7 +1,6 @@
 # SimpleTelegramBot
-A Simple Telegram bot for showing how use telegraf.
-Add your bot token in .env file.
-## Install dependencies.
+A Simple Telegram bot for showing how use telegraf.<br />Add your bot token in .env file.<br />
+## Install dependencies
 ```shell
 npm i
 ```
